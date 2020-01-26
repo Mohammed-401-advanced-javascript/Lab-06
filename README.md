@@ -7,7 +7,7 @@ Simple API
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-06/pull/1)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -18,18 +18,19 @@ Simple API
 
 i.e.
 
-- `PORT` - Port Number
+- `PORT` - 3000
 - `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your application (where applicable)
 
 - e.g. `npm start`
 
-#### Tests
+#### EndPOINTS
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+Endpoint: /categories should GET, POST a categories
+Endpoint: /categories/:id/ should PUT, DELETE a category(ies) by id.
+Endpoint: /products Should GET, POST products
+Endpoint: /products/:id/` Should PUT, DELETE products by id.
 
 #### UML
 
