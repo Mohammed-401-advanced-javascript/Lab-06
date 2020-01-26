@@ -13,6 +13,7 @@ Simple API
 - [front-end application](http://xyz.com) (when applicable)
 
 ### Setup
+npm i -g json-server
 
 #### `.env` requirements (where applicable)
 
