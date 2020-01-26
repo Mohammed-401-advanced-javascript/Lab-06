@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Ayman",
+      "display_name": "Ayman Alsawalgeh",
+      "description": "Taking REST"
+    },
+    {
+      "name": "Ahmad",
+      "display_name": "Ahmad Alsawalgeh",
+      "description": "Taking REST"
+    },
+    {
+      "name": "Emad",
+      "display_name": "Aleholol",
+      "description": "Taking REST"
+    },
+    {
+      "_id": 2
+    },
+    {
+      "name": "Ahmad",
+      "display_name": "Jameel Alsawalgeh",
+      "description": "Taking REST"
+    },
+    {
+      "name": "Ahmad",
+      "display_name": "Jameel Alsawalgeh",
+      "description": "Taking REST",
+      "_id": 3
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "identity",
+      "name": "person",
+      "display_name": "Ayman AlsaWA",
+      "description": "Taking REST"
+    }
+  ]
+}
