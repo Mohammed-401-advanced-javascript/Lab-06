@@ -36,3 +36,5 @@ Endpoint: /products/:id/` Should PUT, DELETE products by id.
 #### UML
 
 Link to an image of the UML for your application and response to events
+
+![Lab6](./assets/HTTP_and_REST)
